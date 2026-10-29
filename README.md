@@ -1,26 +1,25 @@
 # Olá, eu sou o Rodrigo 👋
 
-Analista de Sistemas (estágio) com foco em **dados, SQL e suporte técnico**. Formado em Administração pela UFRRJ e cursando Ciência de Dados na UNINTER. Moro em Nilópolis, RJ.
+Analista de Sistemas (estágio) com foco em **bancos de dados, SQL e suporte técnico**. Formado em Administração pela UFRRJ e cursando Ciência de Dados na UNINTER. Moro em Nilópolis, RJ.
 
 ## O que eu faço
 
-- Manutenção e consulta de bancos de dados **SQL Server**
+- Manutenção e consulta de bancos de dados **SQL Server** e **Oracle**
 - Suporte técnico a usuários, com investigação de falhas e análise de causa
-- Análise de dados com **Python (Pandas, NumPy)** e dashboards em **Power BI**
+- Relatórios e dashboards em **Power BI** e **Excel**
 
 ## Projetos
 
 | Projeto | Tecnologias | O que mostra |
 |---|---|---|
-| [Análise de Chamados com SQL](./projeto-sql-suporte) | SQL Server | Modelagem, JOINs, agregações e subconsultas |
-| [Análise de Chamados com Python](./projeto-python-chamados) | Python, Pandas, Matplotlib | Limpeza de dados, análise e gráfico |
+| [Análise de Chamados com SQL](https://github.com/RodrigoJotta/analise-chamados-sql) | SQL Server, Oracle | Modelagem, JOINs, agregações e subconsultas, em duas versões de banco |
 
 ## Ferramentas
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ## Idiomas
 
