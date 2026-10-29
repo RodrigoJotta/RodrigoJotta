@@ -1,6 +1,6 @@
 # Olá, eu sou o Rodrigo 👋
 
-Analista de Sistemas (estágio) com foco em **dados, SQL e suporte técnico**. Formado em Administração pela UFRRJ e cursando Ciência de Dados na UNINTER. Moro em Queimados, RJ.
+Analista de Sistemas (estágio) com foco em **dados, SQL e suporte técnico**. Formado em Administração pela UFRRJ e cursando Ciência de Dados na UNINTER. Moro em Nilópolis, RJ.
 
 ## O que eu faço
 
